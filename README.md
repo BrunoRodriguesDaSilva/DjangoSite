@@ -1,2 +1,2 @@
 # DjangoSite
-Blog pessoal desenvolvido com Django
+Blog pessoal desenvolvido com Django.
